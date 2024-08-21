@@ -1,0 +1,9 @@
+gemma_pytorch/
+syco-env/
+.ipynb_checkpoints/
+data/
+*.tmp
+*.bak
+*~
+__pycache__/
+*.py[cod]
